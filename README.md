@@ -1,2 +1,8 @@
 # PerformanceAnalysisOfCommunicationSystems
-This project compares the performance of communication systems. 
+
+
+In this project, several simplied binary communication schemes are studied. In
+particular, all these schemes are simulated and the results are compared with theoretical
+values. For this study, an additive white Gaussian noise(AWGN) channel with binary
+antipodal signaling(binary phase shift keying), on-o signaling, and quadrature phase
+shift keying(QPSK) schemes are considered.
